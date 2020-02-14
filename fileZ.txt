@@ -1,1 +1,5 @@
-change a
+<<<<<<< HEAD
+change b
+=======
+change b
+>>>>>>> bea87fcf0a61e8f2e5538c2ab6672b2e5ed70128
